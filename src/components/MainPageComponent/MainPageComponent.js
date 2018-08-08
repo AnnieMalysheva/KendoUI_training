@@ -1,7 +1,7 @@
 import React from 'react'
 import { Grid, GridColumn, GridCell } from '@progress/kendo-react-grid'
 
-import data from '../../data.json'
+import { data } from '../../data'
 
 class CustomCell extends GridCell {
     render() {

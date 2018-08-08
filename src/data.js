@@ -1,4 +1,5 @@
-[{
+export const data = [
+{
     "ProductID" : 1,
     "ProductName" : "Chai",
     "SupplierID" : 1,
